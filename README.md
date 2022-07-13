@@ -6,6 +6,8 @@ backend for a restaurant menu management app using Node.js, express, mongoDB, an
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
+Rename the .envexample to .env and add your MONGO_URI.
+
 Installing TypseScript:
 
 For the latest stable version:
